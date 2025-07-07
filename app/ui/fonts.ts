@@ -1,7 +1,4 @@
-// لا تحتاج هذا:
-// import { lusitana } from "../../ui/fonts";
-
-import { Inter, Roboto_Mono, Lusitana } from "next/font/google";
+import { Lusitana, Inter, Roboto_Mono } from "next/font/google";
 
 export const lusitana = Lusitana({
   subsets: ["latin"],
